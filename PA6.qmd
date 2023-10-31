@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Buyanzaya, Mitashi, and Garrett"
 format: html
 editor: visual
 self-contained: true
